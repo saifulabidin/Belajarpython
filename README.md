@@ -1,0 +1,2 @@
+# Belajarpython
+Sumple Python Script
